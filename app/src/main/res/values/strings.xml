@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Calculator</string>
+
+    <string name="firstOperandHint">Enter first operand</string>
+    <string name="secondOperandHint">Enter second operand</string>
+
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
 </resources>
